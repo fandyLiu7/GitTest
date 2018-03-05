@@ -7,6 +7,14 @@ package com.fandy.learn.gittest;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * tamoa a a a  a1111111111111111111
+ *
+ */
+
+/**
+ * shemale的东西真是蛋疼啊
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
