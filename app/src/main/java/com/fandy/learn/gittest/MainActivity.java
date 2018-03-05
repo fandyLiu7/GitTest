@@ -15,6 +15,10 @@ import android.os.Bundle;
 /**
  * shemale的东西真是蛋疼啊
  */
+
+/**
+ * xianzaimafandehen
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
